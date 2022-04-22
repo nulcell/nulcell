@@ -1,4 +1,3 @@
-### Hi there 👋
 <h3 align="center">👋 Hi there! I'm Toyin Ayanleye</h3>
 <p align="center">
   <a href="https://nullcell8822.github.io/">Website</a> •
