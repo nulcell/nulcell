@@ -14,7 +14,7 @@ I love to play games (mostly FPS games and FIFA), watch movies, cook and play ar
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Application Security, Automation, Python, Linux, Gaming
-- 📫 How to reach me: [@NullCell8822](https://twitter.com/NullCell8822)
+- 📫 How to reach me: [@NullCell8822](https://twitter.com/nullcell_)
 - ⚡ Fun fact: [Link](https://bit.ly/nullcell-fun-fact)
 
 <!--
