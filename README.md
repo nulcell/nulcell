@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Toyin Ayanleye</h3>
 <p align="center">
-  <a href="https://nullcell8822.github.io/">Website</a> •
-  <a href="https://twitter.com/NullCell8822">Twitter</a> •
+  <a href="https://nulcell.github.io/">Website</a> •
+  <a href="https://twitter.com/nulcell">Twitter</a> •
   <a href="https://linkedin.com/in/toyin-ayanleye">LinkedIn</a>
 </p>
 
@@ -14,7 +14,7 @@ I love to play games (mostly FPS games and FIFA), watch movies, cook and play ar
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Application Security, Automation, Python, Linux, Gaming
-- 📫 How to reach me: [@nullcell_](https://twitter.com/nullcell_)
+- 📫 How to reach me: [@nulcell](https://twitter.com/nulcell)
 - ⚡ Fun fact: [Link](https://bit.ly/nullcell-fun-fact)
 
 <!--
