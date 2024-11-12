@@ -1,33 +1,45 @@
-<h3 align="center">👋 Hi there! I'm Toyin Ayanleye</h3>
-<p align="center">
-  <a href="https://nulcell.github.io/">Website</a> •
-  <a href="https://twitter.com/nulcell">Twitter</a> •
-  <a href="https://linkedin.com/in/toyin-ayanleye">LinkedIn</a>
-</p>
+# 👋 Hi there! I'm Toyin Ayanleye
+
+### 🚀 Cloud Security Engineer | 4x AWS Certified
+
+Welcome to my GitHub! I'm passionate about leveraging cloud technologies to drive innovative solutions, particularly in renewable energy and enterprise applications. With extensive experience in AWS, software development, and cloud architecture, I strive to build impactful, scalable solutions that make a difference.
+
+<!--
+---
+
+### 🛠️ What I Do
+
+- **Cloud Solutions Architecture:** Specializing in AWS, I design, implement, and optimize secure, scalable cloud solutions.
+- **Full-Stack Development:** Proficient in modern web technologies and frameworks, developing applications that prioritize user experience and reliability.
+- **Energy Innovation:** Founder of [RayStar](https://github.com/your_company_repo), a solar energy company dedicated to providing clean, efficient, and affordable energy solutions.
+- **Consulting and Strategy:** Helping businesses transition to the cloud with a focus on cost efficiency, performance, and future-ready infrastructure.
+-->
 
 ---
 
-I am a Cybersecurity professional skilled in application security, cloud security and automation using tools and languages, such as python, javascript, bash, AWS, Burp Suite, and many more. I have dabbled in other areas of tech including embedded systems and deep learning, participated in bug bounty programs, vulnerability disclosure programs, and code reviews.
+### 📈 Core Skills & Certifications
 
-I love to play games (mostly FPS games and FIFA), watch movies, cook and play around with various web applications. It's great to break things so they can be built stronger.
+- **Languages & Tools:** Python, SQL, Shell, Git
+- **Cloud:** AWS (Certified Solutions Architect), Azure
+- **DevOps & CI/CD:** Docker, Kubernetes, Terraform, CloudFormation, GitHub Actions, Gitlab CI, ArgoCD
+- **Architecture & Design:** Microservices, Serverless, Event-Driven Architecture, APIs, etc.
+- **Cybersecurity:** Tennable, Netskope, Sysdig, Okta, AWS IAM, Vanta, Burp Suite, Threat Modeling, Risk Assessment
+- **Certifications:** AWS Security Specialty, AWS Solutions Architect Professional, AWS Solutions Architect Associate, AWS Cloud Practitioner
 
+---
 
-- 😄 Pronouns: He/Him
-- 💬 Ask me about Application Security, Automation, Python, Linux, Gaming
-- 📫 How to reach me: [@nulcell](https://twitter.com/nulcell)
+### 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/toyin-ayanleye](https://www.linkedin.com/in/toyin-ayanleye/)
+- **AWS IQ:** [AWS IQ Profile](https://iq.aws.amazon.com/e/nulcell)
+- **Email:** contact@nulcell.com
+
+---
+
+### Other
+
+- 😄 Pronouns: He/Him/His
+- 💬 Ask me about AWS Infrastructure, Cloud Security, Infrastructure as Code, Application Security, Python, Gaming
 - ⚡ Fun fact: [Link](https://bit.ly/nullcell-fun-fact)
 
-<!--
-**NullCell8822/NullCell8822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to collaborating and building something amazing together!
