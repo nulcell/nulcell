@@ -1,45 +1,18 @@
-# 👋 Hi there! I'm Toyin Ayanleye
+# 💫 About Me:
+I'm passionate about leveraging cloud-native technologies to drive innovative solutions. With extensive experience in AWS, software development, and cloud architecture, I strive to build impactful and scalable solutions that make a difference or are just fun.
 
-### 🚀 Cloud Security Engineer | 4x AWS Certified
 
-Welcome to my GitHub! I'm passionate about leveraging cloud technologies to drive innovative solutions, particularly in renewable energy and enterprise applications. With extensive experience in AWS, software development, and cloud architecture, I strive to build impactful, scalable solutions that make a difference.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nulcell_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/toyin-ayanleye) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nulcell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@nulcell.com) 
 
-<!--
----
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nulcell&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nulcell&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nulcell&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🛠️ What I Do
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- **Cloud Solutions Architecture:** Specializing in AWS, I design, implement, and optimize secure, scalable cloud solutions.
-- **Full-Stack Development:** Proficient in modern web technologies and frameworks, developing applications that prioritize user experience and reliability.
-- **Energy Innovation:** Founder of [RayStar](https://github.com/your_company_repo), a solar energy company dedicated to providing clean, efficient, and affordable energy solutions.
-- **Consulting and Strategy:** Helping businesses transition to the cloud with a focus on cost efficiency, performance, and future-ready infrastructure.
--->
-
----
-
-### 📈 Core Skills & Certifications
-
-- **Languages & Tools:** Python, SQL, Shell, Git
-- **Cloud:** AWS (Certified Solutions Architect), Azure
-- **DevOps & CI/CD:** Docker, Kubernetes, Terraform, CloudFormation, GitHub Actions, Gitlab CI, ArgoCD
-- **Architecture & Design:** Microservices, Serverless, Event-Driven Architecture, APIs, etc.
-- **Cybersecurity:** Tennable, Netskope, Sysdig, Okta, AWS IAM, Vanta, Burp Suite, Threat Modeling, Risk Assessment
-- **Certifications:** AWS Security Specialty, AWS Solutions Architect Professional, AWS Solutions Architect Associate, AWS Cloud Practitioner
-
----
-
-### 📫 Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/toyin-ayanleye](https://www.linkedin.com/in/toyin-ayanleye/)
-- **AWS IQ:** [AWS IQ Profile](https://iq.aws.amazon.com/e/nulcell)
-- **Email:** contact@nulcell.com
-
----
-
-### Other
-
-- 😄 Pronouns: He/Him/His
-- 💬 Ask me about AWS Infrastructure, Cloud Security, Infrastructure as Code, Application Security, Python, Gaming
-- ⚡ Fun fact: [Link](https://bit.ly/nullcell-fun-fact)
-
-Looking forward to collaborating and building something amazing together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
