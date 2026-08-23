@@ -1,6 +1,8 @@
+[Portfolio Site 🙂](https://nulcell.com)
+
+<!-- 
 # 💫 About Me:
 I'm passionate about leveraging cloud-native technologies to drive innovative solutions. With extensive experience in AWS, software development, and cloud architecture, I strive to build impactful and scalable solutions that make a difference or are just fun.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nulcell_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/toyin-ayanleye) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nulcell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@nulcell.com) 
@@ -14,5 +16,5 @@ I'm passionate about leveraging cloud-native technologies to drive innovative so
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
